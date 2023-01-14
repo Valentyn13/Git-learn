@@ -27,4 +27,5 @@ git merge branch_name - слияние веток
 !!!! ПОСЛЕ СЛИЯНИЯ ВЕТКУ branch_name УДАЛЯЮТ
 )
 
+some new command
 
