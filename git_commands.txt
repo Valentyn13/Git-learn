@@ -4,21 +4,13 @@ git add .
 
 git commit -m ""
 
-git push - отправить в гитхаб
-
 git branch - получаем ветку
 
 git branch name - сщздаем ветку
 
-git branch -d branch_name - удалить ветку
 
 git push origin branch_name - пушим ветку в гитхаб
 
-git merge branch_name - слияние веток
-(
-например мы находимся в master и пишем эту команду
-тогда ветка branch_name вольется в master
-!!!! ПОСЛЕ СЛИЯНИЯ ВЕТКУ branch_name УДАЛЯЮТ
-)
+
 
 
