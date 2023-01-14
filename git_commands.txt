@@ -14,6 +14,8 @@ git branch -d branch_name - удалить ветку
 
 git push origin branch_name - пушим ветку в гитхаб
 
+git push origin --delete branch_name - удаляем ветку с гитхаба
+
 git merge branch_name - слияние веток
 (
 например мы находимся в master и пишем эту команду
