@@ -4,21 +4,15 @@ git add .
 
 git commit -m ""
 
-git push
-
-git pull
+git push - отправить в гитхаб
 
 git branch - получаем ветку
 
 git branch name - сщздаем ветку
 
-git checkout branch-name - переключаемся на ветку
-
 git branch -d branch_name - удалить ветку
 
 git push origin branch_name - пушим ветку в гитхаб
-
-git push origin --delete branch_name - удаляем ветку с гитхаба
 
 git merge branch_name - слияние веток
 (
