@@ -8,6 +8,8 @@ git branch - получаем ветку
 
 git branch name - сщздаем ветку
 
+git checkout branch-name - переключаемся на ветку
+
 git branch -d branch_name - удалить ветку
 
 git push origin branch_name - пушим ветку в гитхаб
